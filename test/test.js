@@ -1,4 +1,4 @@
-import {sortPerson } from '../function.js';
+import sortPerson from '../function';
 
 test (`Сортировка по здоровью`, () => {
 	const input = [
